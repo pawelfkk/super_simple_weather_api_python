@@ -43,7 +43,7 @@ You can also use the get_all_data() method to retrieve all data at once.
 print(data)
 ```
 ## Note
-Be sure to replace the placeholder strings "YOUR_WEATHER_API_KEY", "YOUR_NEWS_API_KEY", "YOUR_STOCK_API_KEY" with your actual API keys.
+Be sure to replace the placeholder strings "WEATHER_API_KEY", "NEWS_API_KEY", "STOCK_API_KEY" with your actual API keys.
 
 
 ## Authors
